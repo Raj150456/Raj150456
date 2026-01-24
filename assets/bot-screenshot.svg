@@ -1,0 +1,33 @@
+<svg width="400" height="700" xmlns="http://www.w3.org/2000/svg">
+  <!-- Phone Frame -->
+  <rect x="10" y="10" width="380" height="680" rx="30" fill="#1c1c1c" />
+  <rect x="25" y="25" width="350" height="650" rx="20" fill="#7289da" /> <!-- Telegram Background Color approx -->
+  <image href="https://telegram.org/img/t_logo.png" x="150" y="300" height="100" width="100" opacity="0.1"/>
+  
+  <!-- Header -->
+  <rect x="25" y="25" width="350" height="60" rx="0" fill="#232e3c" />
+  <circle cx="55" cy="55" r="20" fill="#5b9bd5" />
+  <text x="90" y="60" font-family="Arial, sans-serif" font-size="18" fill="white" font-weight="bold">NewsBot 🤖</text>
+  
+  <!-- Messages -->
+  <!-- Bot Message 1 -->
+  <path d="M 40 120 L 280 120 A 10 10 0 0 1 290 130 L 290 190 A 10 10 0 0 1 280 200 L 40 200 A 10 10 0 0 1 30 190 L 30 130 A 10 10 0 0 1 40 120 Z" fill="white" />
+  <text x="45" y="145" font-family="Arial, sans-serif" font-size="14" fill="black" font-weight="bold">BBC News Update 🌍</text>
+  <text x="45" y="165" font-family="Arial, sans-serif" font-size="12" fill="#333">Latest headlines from around the...</text>
+  
+  <!-- User Message -->
+  <path d="M 360 220 L 120 220 A 10 10 0 0 0 110 230 L 110 260 A 10 10 0 0 0 120 270 L 360 270 A 10 10 0 0 0 370 260 L 370 230 A 10 10 0 0 0 360 220 Z" fill="#efffde" />
+  <text x="350" y="250" font-family="Arial, sans-serif" font-size="14" fill="black" text-anchor="end">/dailynews</text>
+  
+  <!-- Bot Message 2 -->
+  <path d="M 40 290 L 300 290 A 10 10 0 0 1 310 300 L 310 400 A 10 10 0 0 1 300 410 L 40 410 A 10 10 0 0 1 30 400 L 30 300 A 10 10 0 0 1 40 290 Z" fill="white" />
+  <text x="45" y="315" font-family="Arial, sans-serif" font-size="14" fill="black" font-weight="bold">Top Stories:</text>
+  <text x="45" y="340" font-family="Arial, sans-serif" font-size="12" fill="#333">1. Global Tech Summit Begins</text>
+  <text x="45" y="360" font-family="Arial, sans-serif" font-size="12" fill="#333">2. New AI Regulations Proposed</text>
+  <text x="45" y="380" font-family="Arial, sans-serif" font-size="12" fill="blue" text-decoration="underline">Read more...</text>
+  
+  <!-- Input Area -->
+  <rect x="25" y="625" width="350" height="50" fill="white" />
+  <text x="45" y="655" font-family="Arial, sans-serif" font-size="14" fill="#999">Type a message...</text>
+
+</svg>
