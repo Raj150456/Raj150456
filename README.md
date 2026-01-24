@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Raj 👋</h1>
-  <p><b>Full Stack Developer | Automation Enthusiast | Java & Python Specialist</b></p>
+  <p><b>Full Stack Developer | Automation Enthusiast | Curious Learner</b></p>
   
   <a href="mailto:raj310994@gmail.com">
     <img src="https://img.shields.io/badge/Email-raj310994%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
